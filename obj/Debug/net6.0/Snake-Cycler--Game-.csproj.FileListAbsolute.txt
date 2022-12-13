@@ -1,0 +1,5 @@
+/Users/harrismorgan/Desktop/Snake-Cycler--Game-/obj/Debug/net6.0/Snake-Cycler--Game-.csproj.AssemblyReference.cache
+/Users/harrismorgan/Desktop/Snake-Cycler--Game-/obj/Debug/net6.0/Snake-Cycler--Game-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrismorgan/Desktop/Snake-Cycler--Game-/obj/Debug/net6.0/Snake-Cycler--Game-.AssemblyInfoInputs.cache
+/Users/harrismorgan/Desktop/Snake-Cycler--Game-/obj/Debug/net6.0/Snake-Cycler--Game-.AssemblyInfo.cs
+/Users/harrismorgan/Desktop/Snake-Cycler--Game-/obj/Debug/net6.0/Snake-Cycler--Game-.csproj.CoreCompileInputs.cache
